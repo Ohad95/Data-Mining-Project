@@ -85,9 +85,3 @@ Run the program
  - [Beautiful Soup Tutorial](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/)
  - [ChromeDriver](https://chromedriver.chromium.org/getting-started)
  - [CoinDesk Website](https://www.coindesk.com/)
-
-  
-## Authors
-
-- [@Ohad95](https://www.github.com/Ohad95)
-  
