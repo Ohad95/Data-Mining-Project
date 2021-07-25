@@ -89,7 +89,5 @@ Run the program
   
 ## Authors
 
-- [@AkivaCrouse](https://github.com/AkivaCrouse)
 - [@Ohad95](https://www.github.com/Ohad95)
-- [@metalbored](https://github.com/metalbored)
   
